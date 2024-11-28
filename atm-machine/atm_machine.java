@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class atm
+public class atm_machine
 {
     public static int withdraw;
     public static int balance = 10000;
